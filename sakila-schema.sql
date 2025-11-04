@@ -1,4 +1,6 @@
--- Sakila Sample Database Schema
+Coba
+	coba lagi
+	coba coba coba-- Sakila Sample Database Schema
 -- Version 1.0
 
 -- Copyright (c) 2006, 2015, Oracle and/or its affiliates. 
